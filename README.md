@@ -15,3 +15,12 @@ armazenar no repositorio local o arquivo especificado
 
 # git commit -m "msg do commit"
 armazena o conjunto de arquivos modificados desde o ultimo commit.
+
+# git branch -M [nome da branch]
+cria a branch solicitada localmente
+
+# git remote add origin https://github.com/repicco/curso_github.git
+vincular nosso repo local com o github
+
+# git push -u origin main
+enviando a branch local para o remoto do git
