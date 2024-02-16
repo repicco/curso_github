@@ -24,3 +24,6 @@ vincular nosso repo local com o github
 
 # git push -u origin main
 enviando a branch local para o remoto do git
+
+# git pull
+receber os dados do remoto do git para a branch local
