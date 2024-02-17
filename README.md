@@ -33,3 +33,6 @@ executa a copia do repositorio remoto para a maquina local com uma pasta princip
 
 ## git clone [caminho do repo] .
 executa a copia do repo remoto para local, desestruturando os arquivos no caminho solicitado, sem criar uma pasta raiz
+
+## git log
+exibe os commits em ordem cronologica, para sair aperte a tecla Q
