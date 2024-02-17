@@ -27,3 +27,9 @@ enviando a branch local para o remoto do git
 
 ## git pull
 receber os dados do remoto do git para a branch local
+
+## git clone [caminho do repo]
+executa a copia do repositorio remoto para a maquina local com uma pasta principal representando o diretorio.
+
+## git clone [caminho do repo] .
+executa a copia do repo remoto para local, desestruturando os arquivos no caminho solicitado, sem criar uma pasta raiz
