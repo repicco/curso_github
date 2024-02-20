@@ -36,3 +36,9 @@ executa a copia do repo remoto para local, desestruturando os arquivos no caminh
 
 ## git log
 exibe os commits em ordem cronologica, para sair aperte a tecla Q
+
+## git checkout [nome do arquivo]
+volta a versao do arquivo remoto
+
+## arquivo .gitignore
+podemos adicionar os arquivos que não devem ser mapeados pelo git.
