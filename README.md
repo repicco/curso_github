@@ -42,3 +42,6 @@ volta a versao do arquivo remoto
 
 ## arquivo .gitignore
 podemos adicionar os arquivos que não devem ser mapeados pelo git.
+
+## git reset --hard origin/main
+resgatar todos os arquivos da branch remota removendo as mudanças locais.
