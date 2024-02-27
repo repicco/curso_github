@@ -4,19 +4,19 @@ inicializar repo git
 ## git status
 status atual projeto no git
 
-## git add [nome do arquivo]
+## git add [nomeArquivo]
 adiciona o arquivo para o proximo commit
 
 ## git add .
 adiciona o conjunto de arquivos modificados desde o ultimo commit.
 
-## git commit [nome do arquivo] -m "mensagem do commit"
+## git commit [nomeArquivo] -m "mensagem do commit"
 armazenar no repositorio local o arquivo especificado
 
 ## git commit -m "msg do commit"
 armazena o conjunto de arquivos modificados desde o ultimo commit.
 
-## git branch -M [nome da branch]
+## git branch -M [nomeBranch]
 cria a branch solicitada localmente
 
 ## git remote add origin https://github.com/repicco/curso_github.git
@@ -28,16 +28,16 @@ enviando a branch local para o remoto do git
 ## git pull
 receber os dados do remoto do git para a branch local
 
-## git clone [caminho do repo]
+## git clone [caminhoRepo]
 executa a copia do repositorio remoto para a maquina local com uma pasta principal representando o diretorio.
 
-## git clone [caminho do repo] .
+## git clone [caminhoRepo] .
 executa a copia do repo remoto para local, desestruturando os arquivos no caminho solicitado, sem criar uma pasta raiz
 
 ## git log
 exibe os commits em ordem cronologica, para sair aperte a tecla Q
 
-## git checkout [nome do arquivo]
+## git checkout [nomeArquivo]
 volta a versao do arquivo remoto
 
 ## arquivo .gitignore
@@ -50,8 +50,14 @@ resgatar todos os arquivos da branch remota removendo as mudanças locais.
 ## git branch
 exibe as branchs do projeto
 
-## git branch [nome da branch]
+## git branch [nomeBranch]
 criar branch
 
-## git checkout [nome da branch]
+## git checkout [nomeBranch]
 acessar outras branchs
+
+## git checkout -b [nomeBranch]
+cria uma nova branch e já acessa a branch criada.
+
+## git branch -d [nomeBranch]
+deletar uma branch
