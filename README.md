@@ -61,3 +61,15 @@ cria uma nova branch e já acessa a branch criada.
 
 ## git branch -d [nomeBranch]
 deletar uma branch
+
+## git stash
+armazena as mudanças feitas em uma posição x retornando [id]
+
+## git stash list
+retorna as stashs criadas na branch em questão
+
+## git stash show -p [id]
+exibe as mudanças em determinada stash
+
+## git stash apply [id]
+retorna os dados da stash selecionada.
