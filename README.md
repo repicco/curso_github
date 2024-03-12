@@ -82,3 +82,9 @@ cria uma nova tag
 
 ## git tag
 verifica tags existentes
+
+## git show [nome]
+mostra as mudanças da tag
+
+## git checkout [nome]
+acessa a tag
