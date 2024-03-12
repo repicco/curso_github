@@ -62,6 +62,9 @@ cria uma nova branch e já acessa a branch criada.
 ## git branch -d [nomeBranch]
 deletar uma branch
 
+## git merge [branch]
+mescla a branch em checkout com a solicitada
+
 ## git stash
 armazena as mudanças feitas em uma posição x retornando [id]
 
