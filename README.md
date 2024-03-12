@@ -73,3 +73,9 @@ exibe as mudanças em determinada stash
 
 ## git stash apply [id]
 retorna os dados da stash selecionada.
+
+## git tag -a [nome] -m "comentario"
+cria uma nova tag
+
+## git tag
+verifica tags existentes
