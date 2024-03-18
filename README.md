@@ -22,7 +22,7 @@ cria a branch solicitada localmente
 ## git remote add origin https://github.com/repicco/curso_github.git
 vincular nosso repo local com o github
 
-## git push -u origin main
+## git push -u origin [branch]
 enviando a branch local para o remoto do git
 
 ## git pull
@@ -94,3 +94,8 @@ envia a tag solicitada
 
 ## git push origin --tags
 envia todas as tags
+
+
+
+## git fetch -a
+busca as branchs localizadas em projetos paralelos do git no ambiente remoto
