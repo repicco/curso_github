@@ -95,7 +95,8 @@ envia a tag solicitada
 ## git push origin --tags
 envia todas as tags
 
-
-
 ## git fetch -a
 busca as branchs localizadas em projetos paralelos do git no ambiente remoto
+
+## git gc
+Efetua uma limpeza de temporarios do Git para aumentar a performance entre pull e push
