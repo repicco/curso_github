@@ -100,3 +100,6 @@ busca as branchs localizadas em projetos paralelos do git no ambiente remoto
 
 ## git gc
 Efetua uma limpeza de temporarios do Git para aumentar a performance entre pull e push
+
+## git shortlog
+Log dos commits
