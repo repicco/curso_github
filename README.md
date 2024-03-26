@@ -103,3 +103,15 @@ Efetua uma limpeza de temporarios do Git para aumentar a performance entre pull 
 
 ## git shortlog
 Log dos commits
+
+## git diff
+Valida a branch atual com o que existe na origem do git
+
+## git diff [branch]
+Efetua o diff em uma branch especifica
+
+## git diff HEAD: [nomeArquivo] ou [/pasta/arquivo]
+efetua o diff em um arquivo especifico
+
+## git reflog
+exibe log completo dos commits de forma comprimida com padrão de até 30 dias
