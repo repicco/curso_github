@@ -1,3 +1,5 @@
+### -= Comandos Terminal =-
+
 ## git init
 inicializar repo git
 
@@ -115,3 +117,13 @@ efetua o diff em um arquivo especifico
 
 ## git reflog
 exibe log completo dos commits de forma comprimida com padrão de até 30 dias
+
+
+### -= Website Git =-
+
+## Issue
+Abrir tarefa para novas funcionalidades ou bugs:
+No git em new issues > criar a issue com nome e descrição > marcar um dev e informar a label > executar a correção e pontuar as mudanças > fechar issue.
+
+Podemos gerar labels especificas para cada tipo de issue:
+Em issues > labels > Edit ou New label
