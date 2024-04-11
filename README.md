@@ -127,3 +127,5 @@ No git em new issues > criar a issue com nome e descrição > marcar um dev e in
 
 Podemos gerar labels especificas para cada tipo de issue:
 Em issues > labels > Edit ou New label
+
+Podemos gerar os Pull Requests em branchs paralelas a Main/Master e após autorizados por alguem irá se mergear automaticamente.
